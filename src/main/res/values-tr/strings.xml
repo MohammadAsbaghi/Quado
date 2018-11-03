@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quado</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome">Quado'ya hoşgeldiniz</string>
+    <string name="new_game">yeni oyun</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="over">bu adım tamamlandı</string>
+    <string name="next_step">Sonraki adım</string>
+    <string name="play_again">tekrar oyna</string>
+    <string name="previous_step">önceki adım</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

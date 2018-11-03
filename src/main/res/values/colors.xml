@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f7e2ce</color>
+    <color name="colorPrimaryDark">#31626365</color>
+    <color name="colorAccent">#40c6ff</color>
+    <color name="launcher_back_color">#f7e2ce</color>
+    <color name="new_game_back_color">#66a902</color>
+    <color name="new_game_back_color_pressed">#467301</color>
+    <color name="continue_game_back_color">#03a1eb</color>
+    <color name="continue_game_back_color_pressed">#026ea0</color>
+    <color name="text_color">#ffffff</color>
+    <color name="line_color">#a5a2a2</color>
+    <color name="redcolor">#f44c4c</color>
+    <color name="bluecolor">#4abdf7</color>
+    <color name="greencolor">#6eda75</color>
+    <color name="yellowcolor">#e6d964</color>
+    <color name="black">#000</color>
+    <color name="seprator">#bab9b9</color>
+
+    <!--cubs colors-->
+    <color name="green">#34a853</color>
+    <color name="red">#ea4335</color>
+    <color name="blue">#4285f4</color>
+    <color name="yellow">#fbbc05</color>
+    <color name="purple">#e17202</color>
+
+    <!-- frame colors-->
+    <color name="green_indicator">#2ec556</color>
+    <color name="red_indicator">#e64235</color>
+    <color name="blue_indicator">#3b96f7</color>
+    <color name="yellow_indicator">#fcc936</color>
+    <color name="timer_back">#c0a789</color>
+    <color name="blank">#00ffffff</color>
+
+    <color name="best_score_back">#34a853</color>
+    <color name="texts_color">#e8e8e8</color>
+</resources>

@@ -1,0 +1,102 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="ir.help7.quado.Q3"
+android:id="@+id/q3_framelayout"
+android:background="@color/launcher_back_color">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_q3_new"
+        android:text="@string/new_game"
+        android:drawableRight="@drawable/restart_game"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/q3_timer"
+        android:background="@drawable/time_background"
+        android:textColor="@color/texts_color"
+        android:padding="8sp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/q3_bestRecord"
+        android:background="@drawable/best_record_background"
+        android:textColor="@color/black"
+        android:padding="8sp"
+        android:drawableLeft="@drawable/best_time"/>
+    <Button
+        android:id="@+id/q3btn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_turn"
+        />
+    <Button
+        android:id="@+id/q3btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_turn"
+        />
+    <Button
+        android:id="@+id/q3btn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_turn"/>
+    <Button
+        android:id="@+id/q3btn4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_turn"/>
+    <Button
+        android:id="@+id/q3btn5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_turn"/>
+    <Button
+        android:id="@+id/q3btn6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_turn"/>
+    <Button
+        android:id="@+id/q3btn7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_turn"
+        android:rotation="270"/>
+    <Button
+        android:id="@+id/q3btn8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_turn"
+        android:rotation="270"/>
+    <Button
+        android:id="@+id/q3btn9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_turn"
+        android:rotation="270"/>
+    <Button
+        android:id="@+id/q3btn10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_turn"
+        android:rotation="270"/>
+    <Button
+        android:id="@+id/q3btn11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_turn"
+        android:rotation="270"/>
+    <Button
+        android:id="@+id/q3btn12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_turn"
+        android:rotation="270"/>
+
+
+</RelativeLayout>
+

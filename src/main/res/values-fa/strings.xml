@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">چهارگوش</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome">به چهارگوش خوش آمدید.</string>
+    <string name="new_game">بازی جدید</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="over">این مرحله انجام شد</string>
+    <string name="next_step">مرحله بعد</string>
+    <string name="play_again">دوباره</string>
+    <string name="previous_step">مرحله قبل</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">سلام این یک صفحه ی خالی است.</string>
+</resources>

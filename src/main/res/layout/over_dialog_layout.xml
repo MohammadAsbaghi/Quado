@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/launcher_back_color"
+    android:padding="20sp">
+
+    <TextView
+        android:padding="4sp"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/dialog_record_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/best_record_background"
+        android:layout_margin="10sp"
+        android:drawableTop="@drawable/best_time"/>
+    <Button
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/btn_nextStep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/next_step"
+        android:layout_marginBottom="10sp"
+        android:visibility="gone"
+        android:drawableRight="@drawable/next_step"
+        />
+    <Button
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/btn_playAgain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/play_again"
+        android:layout_marginBottom="10sp"
+        android:drawableRight="@drawable/play_again"
+        />
+    <Button
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/btn_previousStep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/previous_step"
+        android:visibility="gone"
+        android:drawableLeft="@drawable/previous_step"
+        />
+
+</LinearLayout>

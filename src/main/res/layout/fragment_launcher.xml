@@ -1,0 +1,59 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ir.help7.quado.LauncherFragment"
+    android:background="@color/launcher_back_color"
+    android:padding="10sp">
+
+
+    <TextView
+        android:elevation="10dp"
+        android:id="@+id/tv_welcome"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="@string/welcome"
+        android:padding="5sp"
+        android:layout_margin="5sp"
+        android:drawableRight="@drawable/quado_icon"/>
+
+
+    <Button
+        android:layout_width="80sp"
+        android:layout_height="80sp"
+        android:id="@+id/btn_q2"
+        />
+    <Button
+        android:layout_width="80sp"
+        android:layout_height="80sp"
+        android:id="@+id/btn_q3"
+        />
+    <Button
+        android:layout_width="80sp"
+        android:layout_height="80sp"
+        android:id="@+id/btn_q4" />
+
+    <Button
+        android:layout_width="80sp"
+        android:layout_height="80sp"
+        android:id="@+id/btn_q5" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_random"
+        android:text="random puzzle"/>
+
+
+    <ir.adad.client.Banner
+        android:id="@+id/banner_ad_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"/>
+
+</RelativeLayout>

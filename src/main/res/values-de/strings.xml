@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quado</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="welcome">Willkommen bei Quado</string>
+    <string name="new_game">neues Spiel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="over">Dieser Schritt ist getan</string>
+    <string name="next_step">nächster Schritt</string>
+    <string name="play_again">Spiel nochmal</string>
+    <string name="previous_step">vorheriger Schritt</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
